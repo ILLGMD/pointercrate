@@ -1,6 +1,6 @@
 # Pointercrate
 
-As of march 2nd 2019 this is the official repository for pointercrate. It contains all the backend (Rust), database (SQL) and frontend (JavaScript/CSS and html templating in form of rust macros) code that runs pointercrate.
+As of may 5th 2021 this is the official repository for ILLcrate, the rehosted pointercrate fork for the impossible level list. It contains all the backend (Rust), database (SQL) and frontend (JavaScript/CSS and html templating in form of rust macros) code that runs pointercrate.
 
 ## Running pointercrate copies
 
